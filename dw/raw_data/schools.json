@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Harvard University",
+    "accept_rate": "25.77%"
+  },
+  {
+    "id": 2,
+    "name": "Carleton College",
+    "accept_rate": "58.39%"
+  },
+  {
+    "id": 3,
+    "name": "Claremont McKenna College",
+    "accept_rate": "45.72%"
+  },
+  {
+    "id": 4,
+    "name": "Tulane University",
+    "accept_rate": "28.47%"
+  },
+  {
+    "id": 5,
+    "name": "University of Michigan",
+    "accept_rate": "53.19%"
+  },
+  {
+    "id": 6,
+    "name": "University of Texas, Austin",
+    "accept_rate": "82.51%"
+  },
+  {
+    "id": 7,
+    "name": "Montana State University",
+    "accept_rate": "43.03%"
+  },
+  {
+    "id": 8,
+    "name": "University of Utah",
+    "accept_rate": "29.47%"
+  },
+  {
+    "id": 9,
+    "name": "Dartmouth College",
+    "accept_rate": "45.27%"
+  },
+  {
+    "id": 10,
+    "name": "University of Minnesota, Twin Cities",
+    "accept_rate": "79.06%"
+  }
+]
